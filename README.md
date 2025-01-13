@@ -21,7 +21,7 @@ Upload the image(s) you want to analyze to this bucket.
    -Create User and generate access keys
    -Download keys and store in safe folder to allow you to acess IAM through your cmd prompt
 
-  3. Open your computer terminal and Congigure CLI Access
+  3. Open your computer terminal and Configure CLI Access
       - Type the command: AWS configure
       - Copy and paste your Access Key ID, and Secret Access Key
 
