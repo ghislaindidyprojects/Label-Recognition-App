@@ -16,20 +16,21 @@ Create an S3 bucket.
 Upload the image(s) you want to analyze to this bucket.
 
   2. Create an IAM user
+     
    -Attach Policies directly
    -Under Permissions policies: Check AdministratorAcess
    -Create User and generate access keys
    -Download keys and store in safe folder to allow you to acess IAM through your cmd prompt
 
-  3. Open your computer terminal and Configure CLI Access
+  4. Open your computer terminal and Configure CLI Access
       - Type the command: AWS configure
       - Copy and paste your Access Key ID, and Secret Access Key
 
-  4. Install dependencies
+  5. Install dependencies
        - in your command prompt type: pip install boto3
        - next: pip install matplotlib
 
-  5. Create a python file in your IDE (Eg: Visio Code)
+  6. Create a python file in your IDE (Eg: Visio Code)
      -Copy my code
      - replace in def (main) Photo = 'your own photo you uploaded'
      - replace in def (main) bucket = 'your own bucket name'
