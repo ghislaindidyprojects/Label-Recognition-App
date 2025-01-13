@@ -23,7 +23,7 @@ Upload the image(s) you want to analyze to this bucket.
 
   3. Open your computer terminal and Congigure CLI Access
       - Type the command: AWS configure
-      - Copy and pasteyour Access Key ID, and Secret Access Key
+      - Copy and paste your Access Key ID, and Secret Access Key
 
   4. Install dependencies
        - in your command prompt type: pip install boto3
@@ -39,6 +39,5 @@ Upload the image(s) you want to analyze to this bucket.
     -run the command: python pythonfile.py
 
 
-    RESULT
-    ![Picture-result-1](https://github.com/user-attachments/assets/bc00829a-4205-4bf6-aec1-70ad58fb1ee0)
+  
     
