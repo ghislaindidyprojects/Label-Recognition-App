@@ -17,10 +17,10 @@ Upload the image(s) you want to analyze to this bucket.
 
   2. Create an IAM user
      
-   -Attach Policies directly
-   -Under Permissions policies: Check AdministratorAcess
-   -Create User and generate access keys
-   -Download keys and store in safe folder to allow you to acess IAM through your cmd prompt
+   - Attach Policies directly
+   - Under Permissions policies: Check AdministratorAccess
+    - Create User and generate access keys
+   - Download keys and store in safe folder to allow you to acess IAM through your cmd prompt
 
   4. Open your computer terminal and Configure CLI Access
       - Type the command: AWS configure
